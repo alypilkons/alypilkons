@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: 
 -->
 
-- :computer:&emsp;I’m currently working: as an Optimization Engineer at Brooks Bell
+- :computer:&emsp;I’m currently working: as a Senior Optimization Engineer at Brooks Bell
 - 💬&emsp;Ask me about: JavaScript, CSS, A/B testing
 - 📫&emsp;How to reach me: alyssapilkons at gmail
 - 😄&emsp;Pronouns: she/her
